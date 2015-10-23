@@ -1,0 +1,45 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+63
+'Bienvenido al programa que te ayuda a hacer una regla de tres'
+4
+1
+68
+'Dame al valor numero 1, por lo regular se encuentra a lado de la X'
+5
+1
+6
+valor1
+4
+1
+77
+'Dame el valor numero 2, por lo regular se encuentra situada arriba de la X' 
+5
+1
+6
+valor2
+4
+1
+74
+'Por ultimo dame el valor 3, por lo regular se encutra a lado del valor 2'
+5
+1
+6
+valor3
+6
+1
+9
+resultado
+24
+(valor1*valor2)/(valor3)
+4
+1
+49
+'El resultado de tu rergla de tres es:',resultado
+1

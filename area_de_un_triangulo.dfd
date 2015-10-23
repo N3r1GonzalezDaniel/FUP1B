@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+55
+'Programa que te ayuda a sacar el area de un triangulo'
+6
+3
+4
+Base
+1
+0
+6
+Altura
+1
+0
+5
+Area 
+1
+0
+4
+1
+43
+'Dame la medida de la base de tu triangulo'
+5
+1
+1
+B
+4
+1
+45
+'Dame la medida de la altura de tu triangulo'
+5
+1
+1
+H
+6
+1
+1
+A
+7
+(B*H)/2
+4
+1
+30
+'El area de tu tiangulo es:',A
+1

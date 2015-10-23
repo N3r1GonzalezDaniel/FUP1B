@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+19
+'Restaurante mamon'
+4
+1
+30
+'Dame la cantidad que pagaste'
+5
+1
+6
+Precio
+7
+0
+1
+12
+Precio>=1000
+6
+2
+7
+Propina
+11
+0.16*Precio
+5
+total
+14
+Propina+Precio
+4
+1
+60
+'La cantidad de propina que debes dar al mesero es:',Propina
+4
+1
+40
+'Tu total a pagar con propina es:',total
+13
+6
+2
+9
+resultado
+11
+Precio*0.10
+10
+resultado1
+16
+resultado+Precio
+4
+1
+62
+'La cantidad de propina que debes dar al mesero es:',resultado
+4
+1
+45
+'Tu total a pagar con propina es:',resultado1
+13
+4
+1
+35
+'Gracias por venir al restaurante '
+1

@@ -1,0 +1,140 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+42
+'Bienvenido a la Lavadora Pro 3000 Ultra' 
+4
+1
+43
+'Para brindarte un buen servicio de lavado'
+4
+1
+40
+'Introdusca la cantidad de peso a lavar'
+5
+1
+4
+peso
+7
+0
+1
+7
+peso>20
+7
+0
+1
+23
+(peso>=16)AND(peso<=20)
+7
+0
+1
+23
+(peso>=10)AND(peso<=15)
+7
+0
+1
+21
+(peso>=1)AND(peso<=9)
+4
+1
+33
+'Se requiere mas peso para lavar'
+13
+4
+1
+39
+'El nivel de agua a utilizar es minimo'
+13
+13
+4
+1
+39
+'El niverl de agua a utilizar es medio'
+13
+13
+4
+1
+39
+'El nivel de agua a utilizar es maximo'
+13
+4
+1
+60
+'Para lograr lavar correctamente introdusca el tipo de ropa'
+4
+1
+47
+'Dependiendo del estado en el que se encuentre'
+4
+1
+21
+'Delicada presiona 1'
+4
+1
+19
+'Normal presiona 2'
+4
+1
+18
+'Sucia presiona 3'
+5
+1
+4
+tipo
+7
+0
+1
+6
+tipo=1
+7
+0
+1
+6
+tipo=2
+7
+0
+1
+6
+tipo=3
+4
+1
+35
+'Error ese no es un tipo de lavado'
+13
+4
+1
+57
+'El tipo de ropa es sucia, le llevara 20 minutos lavarse'
+13
+13
+4
+1
+71
+'El tipo de ropa seleccionado es normal, le llevara 10 minutos lavarse'
+13
+13
+4
+1
+72
+'El tipo de ropa seleccionado es delicada, le llevara 5 minutos lavarse'
+13
+4
+1
+49
+'Gracias por utilizar la Lavadora Pro 3000 Ultra'
+4
+1
+66
+'En un momento le avisaremos que su ropa esta lista para colgarse'
+13
+4
+1
+42
+'No se puede lavar, favor de retirar peso'
+13
+1

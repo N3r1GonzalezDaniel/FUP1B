@@ -1,0 +1,71 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+48
+'Programa que te dice en qué tipo de edad estas'
+4
+1
+14
+'dime tu edad'
+5
+1
+1
+E
+7
+0
+1
+18
+(E>=0) AND (E<=12)
+7
+0
+1
+19
+(E>=13) AND (E<=18)
+7
+0
+1
+19
+(E>=19) AND (E<=29)
+7
+0
+1
+19
+(E>=30) AND (E<=60)
+4
+1
+34
+'Felicidades eres un adulto mayor'
+13
+4
+1
+28
+'Felicidades eres un adulto'
+13
+13
+4
+1
+27
+'Felicidades eres un joven'
+13
+13
+4
+1
+32
+'Felicidades eres un adolecente'
+13
+13
+4
+1
+27
+'Felicidades eres un niñio'
+13
+4
+1
+35
+'Gracias por usar este programa :)'
+1
