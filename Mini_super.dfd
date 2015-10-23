@@ -1,0 +1,93 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+26
+'Bienvenido al mini súper'
+4
+1
+31
+'Los productos que tenemos son'
+4
+1
+11
+'Papas $15'
+4
+1
+14
+'Refresco $10'
+4
+1
+11
+'Dulces $4'
+4
+1
+10
+'Cafe $10'
+4
+1
+14
+'Pan dulce $3'
+4
+1
+52
+'Dame la cantidad de productos que lleva el cliente'
+4
+1
+31
+'Cuantas bolsas de papas lleva'
+5
+1
+5
+papas
+4
+1
+25
+'Cuantos refrescos lleva'
+5
+1
+8
+refresco
+4
+1
+34
+'Cuantas bolsitas de dulces lleva'
+5
+1
+6
+dulces
+4
+1
+29
+'Cuantos bazos de cafe lleva'
+5
+1
+4
+cafe
+4
+1
+38
+'Cuantas piezas de pan de dulce lleva'
+5
+1
+3
+pan
+6
+1
+9
+resultado
+43
+papas*15+refresco*10+dulces*4+cafe*10+pan*3
+4
+1
+44
+'El monto total a pagar es de $' , resultado
+4
+1
+40
+'Gracias por su compra, regrese pronto.'
+1

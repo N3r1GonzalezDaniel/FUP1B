@@ -1,0 +1,57 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+60
+'Programa que calcula la propina, cambio y el total a pagar'
+4
+1
+33
+'Ingrese la cuenta total a pagar'
+5
+1
+1
+N
+4
+1
+49
+'Dame la cantidad de personas que fueron a comer'
+5
+1
+2
+N1
+6
+1
+9
+resultado
+6
+N*0.10
+6
+1
+10
+resultado1
+11
+N+resultado
+6
+1
+10
+resultado2
+13
+resultado1/N1
+4
+1
+63
+'la cantidad de propina que debes dar al mesero es:', resultado
+4
+1
+58
+'la cantidad total a pagar mas la propina es:', resultado1
+4
+1
+63
+'La cantidad que les toca cooperar por persona es:', resultado2
+1
