@@ -1,5 +1,5 @@
 /*
-programa que pide un numero real y sume los numeros del 1 al numero real dado
+programa que pide 1 numero real y sume dichos numeros 
 */
 
 #include<stdio.h>
