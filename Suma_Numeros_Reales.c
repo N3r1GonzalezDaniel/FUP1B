@@ -31,6 +31,13 @@ int main()
 	scanf("%d",&suma);
 }
 
+	while(suma>10)
+{ 
+	printf("Ingrese un numero menor o igual a 10!, por favor\n");
+	printf("Intenta de Nuevo Tienes Otra Oportunidad!\n");
+	scanf("%d",&suma);
+}
+
 while(suma!=0)
 { 
 	if(suma!=1) printf("MAS: %d \n",suma-1);
